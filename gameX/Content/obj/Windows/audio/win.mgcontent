@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie2.8/gameX/gameX/Content/audio/win.mp3</SourceFile>
+  <SourceTime>2020-01-21T21:02:42+01:00</SourceTime>
+  <DestFile>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie2.8/gameX/gameX/Content/bin/Windows/audio/win.xnb</DestFile>
+  <DestTime>2020-01-26T17:16:07.2513092+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie2.8/gameX/gameX/Content/bin/Windows/audio/win.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

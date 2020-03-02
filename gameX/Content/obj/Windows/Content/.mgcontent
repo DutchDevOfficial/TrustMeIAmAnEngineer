@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/background.mp3</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/coin.mp3</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/coinEffect.wav</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/dead.mp3</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/jump.mp3</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/jumpEffect.wav</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/menu.mp3</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/special.mp3</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/specialEffect.wav</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/win.mp3</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/winEffect.wav</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/youdied.wav</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/console/consoleactive.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/console/consoleturnoff.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/console/consoleturnon.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/laser/laseractive.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/laser/laserturnoff.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/laser/laserturnon.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Menu/Leeg.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Menu/Load.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Menu/Quit.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Menu/resume.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Menu/Save.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Menu/Start.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/paralax/background.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/paralax/otherparalex.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/paralax/realparalex.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/pipes/cornerpipe64.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/pipes/endpipe64.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/pipes/startpipe64.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/pipes/straightpipe64.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/player/engineeridle.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/player/engineerjump.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/player/engineerrun.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/player/heart.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/player/spritesheet.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/player1.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/State/youdied.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile1.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile10.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile11.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile12.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile13.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile14.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile15.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile16.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile17.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile18.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile2.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile3.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile4.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile5.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile6.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile7.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile8.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/Tile9.png</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/vent/File.spritefont</File>
+    <File>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/vent/ventilation64.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Tile01.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Tile02.png</File>
+    <File>Tile03.png</File>
+    <File>Tile04.png</File>
+    <File>Tile05.png</File>
+    <File>Tile06.png</File>
+    <File>Tile07.png</File>
+    <File>Tile08.png</File>
+    <File>Tile09.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

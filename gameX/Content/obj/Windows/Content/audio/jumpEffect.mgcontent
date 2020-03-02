@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/audio/jumpEffect.wav</SourceFile>
+  <SourceTime>2020-01-21T21:14:51+01:00</SourceTime>
+  <DestFile>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie3 - refactoring/gameX/gameX/Content/bin/Windows/Content/audio/jumpEffect.xnb</DestFile>
+  <DestTime>2020-01-29T14:47:49.4974115+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

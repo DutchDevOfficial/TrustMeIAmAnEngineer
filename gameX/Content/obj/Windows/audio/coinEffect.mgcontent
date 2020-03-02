@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie2.8/gameX/gameX/Content/audio/coinEffect.wav</SourceFile>
+  <SourceTime>2020-01-19T17:49:57.7111273+01:00</SourceTime>
+  <DestFile>C:/Users/djexe/OneDrive - Artesis Plantijn Hogeschool Antwerpen/GameDev Project!/Game1.0_Animatie2.8/gameX/gameX/Content/bin/Windows/audio/coinEffect.xnb</DestFile>
+  <DestTime>2020-01-26T17:16:04.2224139+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
